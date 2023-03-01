@@ -1,6 +1,6 @@
 import React from 'react'
 import {useContext} from 'react'
-import {userContext} from './userProvider'
+import {userContext} from './UserProvider'
 // import userDispatchContext from './userProvider'
 
 const Profile = () => {
